@@ -1,1 +1,1 @@
-# mnist-lenet-triplet-loss
+# mnist-lenet++-triplet-loss
